@@ -1,0 +1,14 @@
+C:\Users\dell\Documents\Finanzas6J\bin\Debug\Finanzas6J.exe.config
+C:\Users\dell\Documents\Finanzas6J\bin\Debug\Finanzas6J.exe
+C:\Users\dell\Documents\Finanzas6J\bin\Debug\Finanzas6J.pdb
+C:\Users\dell\Documents\Finanzas6J\obj\Debug\Finanzas6J.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\Finanzas6J\obj\Debug\Finanzas6J.Properties.Resources.resources
+C:\Users\dell\Documents\Finanzas6J\obj\Debug\Finanzas6J.csproj.GenerateResource.cache
+C:\Users\dell\Documents\Finanzas6J\obj\Debug\Finanzas6J.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\Finanzas6J\obj\Debug\Finanzas6J.exe
+C:\Users\dell\Documents\Finanzas6J\obj\Debug\Finanzas6J.pdb
+C:\Users\dell\Documents\Finanzas6J\obj\Debug\Finanzas6J.FTipoIngreso.resources
+C:\Users\dell\Documents\Finanzas6J\obj\Debug\Finanzas6J.FPrincipal.resources
+C:\Users\dell\Documents\Finanzas6J\obj\Debug\Finanzas6J.FTipoGasto.resources
+C:\Users\dell\Documents\Finanzas6J\obj\Debug\Finanzas6J.FIngreso.resources
+C:\Users\dell\Documents\Finanzas6J\obj\Debug\Finanzas6J.FGastos.resources
